@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Verliefd zijn op iemand en met die persoon iets opbouwen; hoe realistisch klinkt dat voor jou? Is het iets vanzelfsprekends, of eigenlijk juist iets onbereikbaars? Hoe vreemd ook; voor velen van ons is een fijne relatie waarin wederzijds in elkaars behoeften wordt voorzien, vaak meer uitzondering dan regel. Door onze maatschappij die tegenwoordig steeds meer op prestaties en eigenbelang gericht lijkt te zijn en het daardoor verminderde gevoel van empathie voor elkaar, is het natuurlijk aanwezige evenwicht in menselijke relaties vervallen. Waardoor rollen automatisch eenzijdiger lijken te worden en, simpel gezegd, de één vaak meer geeft dan de ander. Maar hoe gebeurt dit precies?'
-datePublished: '2016-03-09T08:51:50.840Z'
+datePublished: '2016-03-09T08:51:51.991Z'
 dateModified: '2016-03-09T08:22:06.486Z'
 title: ''
 author: []
