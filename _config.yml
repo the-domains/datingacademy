@@ -1,0 +1,28 @@
+name: datingacademy
+favicon: null
+layout_spectrum: 0.03109581721946597
+typography_spectrum: 0.9972119550220668
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9838876647409052
+  lightness: 0.8400437408126891
+  saturation: 0.36388935474678874
+  rhythmicContrast: 0.3466411461122334
+purpose: []
