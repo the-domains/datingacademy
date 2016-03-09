@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[datingacademy]]></title>
+        <description><![CDATA[datingacademy]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 09 Mar 2016 08:51:51 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Verliefd zijn op iemand en met die persoon iets opbouwen; hoe realistisch klinkt dat voor jou? Is het iets vanzelfsprekends, of eigenlijk juist iets onbereikbaars? Hoe vreemd ook; voor velen van ons is een fijne relatie waarin wederzijds in elkaars behoeften wordt voorzien, vaak meer uitzondering dan regel. Door onze maatschappij die tegenwoordig steeds meer op prestaties en eigenbelang gericht lijkt te zijn en het daardoor verminderde gevoel van empathie voor elkaar, is het natuurlijk aanwezige evenwicht in menselijke relaties vervallen. Waardoor rollen automatisch eenzijdiger lijken te worden en, simpel gezegd, de één vaak meer geeft dan de ander. Maar hoe gebeurt dit precies?</p>]]></description>
+            <link>undefinedverliefd-zijn-op-iemand-en-met-die-persoon-iets-opbouwen-ho/index.html</link>
+            <guid isPermaLink="false">fe60ccce-e1d5-48cb-850f-3e420148ae1d</guid>
+            <pubDate>Wed, 09 Mar 2016 08:51:50 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
