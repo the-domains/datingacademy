@@ -1,7 +1,7 @@
 name: datingacademy
 favicon: null
 layout_spectrum: 0.03109581721946597
-typography_spectrum: 0.9972119550220668
+typography_spectrum: 0.12245
 cta:
   domain: null
   bucket: null
@@ -23,6 +23,6 @@ color:
     - '#A2E3C4'
   brandStrength: 0.9838876647409052
   lightness: 0.5
-  saturation: 0.36388935474678874
+  saturation: 0.1875
   rhythmicContrast: 0.5
 purpose: []
